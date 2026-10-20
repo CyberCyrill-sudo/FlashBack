@@ -1,0 +1,76 @@
+.name {
+  text-align: center;
+  width: 100%;
+}
+.name h1 {
+  font-size: 2.25em;
+  margin: 44px;
+}
+.name-img {
+  width: 144px; height: 120px;
+  border: var(--border-red);
+}
+#game {
+  width: 900px; height: 675px;
+  border: var(--border-red);
+}
+#free-fred {
+  width: 720px; height: 510px;
+  border: var(--border-red);
+}
+#black-navy-war {
+  width: 1104px; height: 675px;
+  border: var(--border-red);
+}
+#black-sails {
+  width: 875px; height: 675px;
+  border: var(--border-red);
+}
+#open-sails {
+  width: 800px; height: 600px;
+  border: var(--border-red);
+}
+#pirateers {
+  width: 750px; height: 500px;
+  border: var(--border-red);
+}
+#pirateers-2 {
+  width: 750px; height: 580px;
+  border: var(--border-red);
+}
+#avatar {
+  width: 1150px; height: 575px;
+  border: var(--border-red);
+}
+#battleship {
+  width: 940px; height: 675px;
+  border: var(--border-red);
+}
+#secret-sea {
+  width: 964px; height: 675px;
+  border: var(--border-red);
+}
+#raft-wars {
+  width: 945px; height: 675px;
+  border: var(--border-red);
+}
+#general-quartes {
+  width: 1027px; height: 675px;
+  border: var(--border-red);
+}
+#cruiser {
+  width: 650px; height: 450px;
+  border: var(--border-red);
+}
+#Морской-бой {
+  width: 675px; height: 675px;
+  border: var(--border-red);
+}
+#captain-jack {
+  width: 928px; height: 675px;
+  border: var(--border-red);
+}
+#trafalgar-origins {
+  width: 975px; height: 675px;
+  border: var(--border-red);
+}
