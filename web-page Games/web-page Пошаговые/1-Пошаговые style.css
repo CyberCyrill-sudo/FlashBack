@@ -1,0 +1,68 @@
+.name {
+  text-align: center;
+  width: 100%;
+}
+.name h1 {
+  font-size: 2.25em;
+  margin: 44px;
+}
+.name-img {
+  width: 144px; height: 120px;
+  border: var(--border-red);
+}
+#game {
+  width: 900px; height: 675px;
+  border: var(--border-red);
+}
+#avatar-fortress-fight {
+  width: 1011px; height: 675px;
+  border: var(--border-red);
+}
+#steambirds {
+  width: 640px; height: 480px;
+  border: var(--border-red);
+}
+#two-powers {
+  width: 945px; height: 675px;
+  border: var(--border-red);
+}
+#avatar-clash-of-the-benders {
+  width: 1150px; height: 577px;
+  border: var(--border-red);
+}
+#black-sails {
+  width: 700px; height: 600px;
+  border: var(--border-red);
+}
+#oiligarchy {
+  width: 1050px; height: 675px;
+  border: var(--border-red);
+}
+#medieval-wars {
+  width: 790px; height: 675px;
+  border: var(--border-red);
+}
+#ultimate-online-checkers {
+  width: 730px; height: 675px;
+  border: var(--border-red);
+}
+#flash-bounty {
+  width: 1050px; height: 672px;
+  border: var(--border-red);
+}
+#Пре-Цивилизация {
+  width: 880px; height: 675px;
+  border: var(--border-red);
+}
+#Мраморный-век {
+  width: 1010px; height: 675px;
+  border: var(--border-red);
+}
+#kingdoms {
+  width: 940px; height: 675px;
+  border: var(--border-red);
+}
+#divine-generals {
+  width: 550px; height: 431px;
+  border: var(--border-red);
+}
