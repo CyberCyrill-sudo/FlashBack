@@ -1,0 +1,36 @@
+.name {
+  text-align: center;
+  width: 100%;
+}
+.name h1 {
+  font-size: 2.25em;
+  margin: 44px;
+}
+.name-img {
+  width: 144px; height: 120px;
+  border: var(--border-red);
+}
+#game {
+  width: 900px; height: 675px;
+  border: var(--border-red);
+}
+#twilight-sparkle {
+  width: 800px; height: 600px;
+  border: var(--border-red);
+}
+#canterlot-defender {
+  width: 1150px; height: 657px;
+  border: var(--border-red);
+}
+#little-pony {
+  width: 985px; height: 675px;
+  border: var(--border-red);
+}
+#cutie-mark-unmagic {
+  width: 1150px; height: 647px;
+  border: var(--border-red);
+}
+#twilight-sparkles-revenge {
+  width: 1150px; height: 647px;
+  border: var(--border-red);
+}
