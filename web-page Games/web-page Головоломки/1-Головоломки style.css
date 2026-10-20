@@ -1,0 +1,112 @@
+.name {
+  text-align: center;
+  width: 100%;
+}
+.name h1 {
+  font-size: 2.25em;
+  margin: 44px;
+}
+.name-img {
+  width: 144px; height: 120px;
+  border: var(--border-red);
+}
+#game {
+  width: 900px; height: 675px;
+  border: var(--border-red);
+}
+#railroad {
+  width: 864px; height: 675px;
+  border: var(--border-red);
+}
+#gears-and-chains {
+  width: 944px; height: 675px;
+  border: var(--border-red);
+}
+#years {
+  width: 600px; height: 360px;
+  border: var(--border-red);
+}
+#star-shine {
+  width: 675px; height: 675px;
+  border: var(--border-red);
+}
+#star-shine-2 {
+  width: 625px; height: 675px;
+  border: var(--border-red);
+}
+#building-demoliher {
+  width: 1012px; height: 675px;
+  border: var(--border-red);
+}
+#gold-of-knights {
+  width: 640px; height: 600px;
+  border: var(--border-red);
+}
+#rolling-cube {
+  width: 1080px; height: 675px;
+  border: var(--border-red);
+}
+#kings-troubles {
+  width: 1011px; height: 675px;
+  border: var(--border-red);
+}
+#truck-loader {
+  width: 985px; height: 675px;
+  border: var(--border-red);
+}
+#truck-loader-4 {
+  width: 700px; height: 480px;
+  border: var(--border-red);
+}
+#truck-loader-5 {
+  width: 945px; height: 675px;
+  border: var(--border-red);
+}
+#улитка-боб {
+  width: 831px; height: 675px;
+  border: var(--border-red);
+}
+#улитка-боб-5 {
+  width: 1012px; height: 675px;
+  border: var(--border-red);
+}
+#bloons {
+  width: 877px; height: 675px;
+  border: var(--border-red);
+}
+#save-my-tree {
+  width: 508px; height: 675px;
+  border: var(--border-red);
+}
+#wall-e {
+  width: 800px; height: 675px;
+  border: var(--border-red);
+}
+#spartans-vs-goblin {
+  width: 960px; height: 675px;
+  border: var(--border-red);
+}
+#symphony {
+  width: 800px; height: 580px;
+  border: var(--border-red);
+}
+#magic-blaster {
+  width: 883px; height: 675px;
+  border: var(--border-red);
+}
+#Фэн-шуй {
+  width: 800px; height: 600px;
+  border: var(--border-red);
+}
+#railroad-tycoon {
+  width: 1067px; height: 675px;
+  border: var(--border-red);
+}
+#dream-pet {
+  width: 640px; height: 480px;
+  border: var(--border-red);
+}
+#shifty {
+  width: 550px; height: 398px;
+  border: var(--border-red);
+}
