@@ -1,0 +1,196 @@
+.name {
+  text-align: center;
+  width: 100%;
+}
+.name h1 {
+  font-size: 2.25em;
+  margin: 44px;
+}
+.name-img {
+  width: 144px; height: 120px;
+  border: var(--border-red);
+}
+#game {
+  width: 900px; height: 675px;
+  border: var(--border-red);
+}
+#steampunk-tower {
+  width: 800px; height: 500px;
+  border: var(--border-red);
+}
+#kitts-kingdom {
+  width: 1080px; height: 675px;
+  border: var(--border-red);
+}
+#tower-heart {
+  width: 1150px; height: 615px;
+  border: var(--border-red);
+}
+#nuclear-gun {
+  width: 640px; height: 480px;
+  border: var(--border-red);
+}
+#tower-droids {
+  width: 1012px; height: 675px;
+  border: var(--border-red);
+}
+#tower-droids-2 {
+  width: 1038px; height: 675px;
+  border: var(--border-red);
+}
+#battle-panic {
+  width: 870px; height: 675px;
+  border: var(--border-red);
+}
+#defend-game {
+  width: 1150px; height: 538px;
+  border: var(--border-red);
+}
+#castle-woodwarf {
+  width: 960px; height: 640px;
+  border: var(--border-red);
+}
+#bud {
+  width: 1013px; height: 675px;
+  border: var(--border-red);
+}
+#zombie-gates {
+  width: 700px; height: 400px;
+  border: var(--border-red);
+}
+#turret-defence {
+  width: 1150px; height: 495px;
+  border: var(--border-red);
+}
+#tower-of-doom {
+  width: 655px; height: 675px;
+  border: var(--border-red);
+}
+#kingdom {
+  width: 1150px; height: 639px;
+  border: var(--border-red);
+}
+#synchronoir {
+  width: 1080px; height: 675px;
+  border: var(--border-red);
+}
+#greedy-ghouls {
+  width: 1150px; height: 660px;
+  border: var(--border-red);
+}
+#ice-cream {
+  width: 1150px; height: 657px;
+  border: var(--border-red);
+}
+#star-forge {
+  width: 680px; height: 675px;
+  border: var(--border-red);
+}
+#warzone {
+  width: 926px; height: 675px;
+  border: var(--border-red);
+}
+#bloody-night {
+  width: 972px; height: 675px;
+  border: var(--border-red);
+}
+#balloon-invasion {
+  width: 1011px; height: 675px;
+  border: var(--border-red);
+}
+#shield-defense {
+  width: 797px; height: 675px;
+  border: var(--border-red);
+}
+#castle-knight {
+  width: 700px; height: 400px;
+  border: var(--border-red);
+}
+#carveola-files {
+  width: 700px; height: 550px;
+  border: var(--border-red);
+}
+#carveola-incident {
+  width: 700px; height: 530px;
+  border: var(--border-red);
+}
+#dude-zombies {
+  width: 640px; height: 400px;
+  border: var(--border-red);
+}
+#palladium-castle {
+  width: 640px; height: 480px;
+  border: var(--border-red);
+}
+#final-defense {
+  width: 787px; height: 675px;
+  border: var(--border-red);
+}
+#final-defense-2 {
+  width: 729px; height: 675px;
+  border: var(--border-red);
+}
+#way-defence {
+  width: 640px; height: 540px;
+  border: var(--border-red);
+}
+#mushroom-madness-3 {
+  width: 908px; height: 675px;
+  border: var(--border-red);
+}
+#bubble-tanks-td {
+  width: 798px; height: 675px;
+  border: var(--border-red);
+}
+#rizk {
+  width: 744px; height: 480px;
+  border: var(--border-red);
+}
+#world-defense {
+  width: 945px; height: 675px;
+  border: var(--border-red);
+}
+#flash-empires {
+  width: 780px; height: 675px;
+  border: var(--border-red);
+}
+#flash-empires-3 {
+  width: 810px; height: 675px;
+  border: var(--border-red);
+}
+#pet-soldiers {
+  width: 920px; height: 675px;
+  border: var(--border-red);
+}
+#pirate-defense {
+  width: 625px; height: 675px;
+  border: var(--border-red);
+}
+#slice-fortress-defence {
+  width: 915px; height: 675px;
+  border: var(--border-red);
+}
+#arc-of-templar {
+  width: 943px; height: 675px;
+  border: var(--border-red);
+}
+#brave-knights {
+  width: 992px; height: 675px;
+  border: var(--border-red);
+}
+#click-battle {
+  width: 1019px; height: 675px;
+  border: var(--border-red);
+}
+#demonic-flower {
+  width: 1009px; height: 675px;
+  border: var(--border-red);
+}
+#king-guard {
+  width: 750px; height: 500px;
+  border: var(--border-red);
+}
+#troll-fight {
+  width: 1010px; height: 675px;
+  border: var(--border-red);
+}
