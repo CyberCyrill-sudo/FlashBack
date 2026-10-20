@@ -1,0 +1,100 @@
+.name {
+  text-align: center;
+  width: 100%;
+}
+.name h1 {
+  font-size: 2.25em;
+  margin: 44px;
+}
+.name-img {
+  width: 144px; height: 120px;
+  border: var(--border-red);
+}
+#game {
+  width: 900px; height: 675px;
+  border: var(--border-red);
+}
+#house-of-wolves {
+  width: 800px; height: 480px;
+  border: var(--border-red);
+}
+#colonial-wars {
+  width: 640px; height: 480px;
+  border: var(--border-red);
+}
+#green-kingdom {
+  width: 809px; height: 675px;
+  border: var(--border-red);
+}
+#islands-freedom {
+  width: 720px; height: 600px;
+  border: var(--border-red);
+}
+#building-rush {
+  width: 800px; height: 600px;
+  border: var(--border-red);
+}
+#corporation {
+  width: 1080px; height: 675px;
+  border: var(--border-red);
+}
+#theme-hotel {
+  width: 944px; height: 675px;
+  border: var(--border-red);
+}
+#great-war {
+  width: 945px; height: 675px;
+  border: var(--border-red);
+}
+#battle-march {
+  width: 720px; height: 480px;
+  border: var(--border-red);
+}
+#kingdom-of-zombies {
+  width: 675px; height: 675px;
+  border: var(--border-red);
+}
+#shadez {
+  width: 700px; height: 550px;
+  border: var(--border-red);
+}
+#shadez-2 {
+  width: 700px; height: 500px;
+  border: var(--border-red);
+}
+#blobble-wars {
+  width: 843px; height: 675px;
+  border: var(--border-red);
+}
+#steam-of-war {
+  width: 650px; height: 550px;
+  border: var(--border-red);
+}
+#royal-warfare {
+  width: 700px; height: 600px;
+  border: var(--border-red);
+}
+#bashing-grounds {
+  width: 840px; height: 680px;
+  border: var(--border-red);
+}
+#balloonium {
+  width: 860px; height: 675px;
+  border: var(--border-red);
+}
+#castle-commander {
+  width: 871px; height: 675px;
+  border: var(--border-red);
+}
+#fronts-no-retreat {
+  width: 700px; height: 530px;
+  border: var(--border-red);
+}
+#recapture {
+  width: 1012px; height: 675px;
+  border: var(--border-red);
+}
+#farm-and-grow {
+  width: 1052px; height: 675px;
+  border: var(--border-red);
+}
