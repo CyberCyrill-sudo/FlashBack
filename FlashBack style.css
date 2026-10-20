@@ -1,0 +1,143 @@
+* {margin: 0px; padding: 0px;}
+/* color red-(234, 35, 25) orange-(255, 187, 0) */
+:root {
+  --margin: 5px;
+  --marginbig: 15px;
+  --container: 1200px;
+  --red: rgb(234, 35, 25);
+  --orange: rgb(255, 187, 0);
+  --border-red: 5px outset rgb(220, 30, 30);
+  --border-orange: 5px outset rgb(245, 180, 10);
+  --border-blue: 5px outset rgb(40, 40, 220);
+  --border-green: 5px outset rgb(40, 200, 25);
+  --border-grey: 5px outset rgb(100, 100, 100);
+}
+
+#list {
+  box-sizing: border-box;
+  width: 240px; height: auto;
+  background-color: rgba(255, 229, 182, 0.3);
+  border: var(--border-red);
+  text-align: center;
+  float: left;
+}
+#table{
+  box-sizing: border-box; width: 960px;
+  font: 1em sans-serif;
+  padding-left: 5px;
+  text-align: center;
+  float: left;
+}
+
+  /* надпись на главной странице */
+.hello {
+  text-align: center;
+  width: 100%;
+}
+.hello h1 {
+  margin: 32px;
+  font-size: 2.5em;
+}
+.hello-img {
+  width: 100px; height: 100px;
+  margin: 0px 5px 5px 5px;
+  border: var(--border-red)
+}
+
+  /* карточки жанров */
+.categories-group {
+  display: flex; justify-content: center;
+  margin: 0px 17px; padding: 0px;  
+}
+.card-categories {
+  margin: 5px; padding: 10px;
+  border: 2px solid rgba(0, 0, 0, 0.25);
+  width: 100px; height: 120px;
+}
+.card-categories img {
+  width: 80px; height: 80px;
+}
+.card-categories:hover {
+  border-color: rgba(234, 35, 25, 1);
+  background-color: rgba(0, 0, 0, 0.1);
+  color: rgba(234, 35, 25, 1);
+  text-decoration: underline;
+}
+
+  /* карточки игр */
+.card-group {
+  display: flex;
+  margin: 0px 17px; padding: 0px;
+}
+.card {
+  width: 160px; height: 170px;
+  margin: 5px; padding: 5px;
+  border: 2px solid rgba(0, 0, 0, 0.25);
+}
+.card img {
+  width: 144px; height: 120px;
+}
+.card:hover {
+  border-color: rgb(255, 40, 30);
+  background-color: rgba(0, 0, 0, 0.1);
+  color: rgb(255, 40, 30);
+  text-decoration: underline;
+}
+.card-text {
+  margin-top: 3px;
+  font: 1em sans-serif;
+}
+.text-sm {
+  font: 0.97em sans-serif;
+}
+
+  /* элементы навигационой панели */
+li {
+  height: 40px;
+  margin: 4px;
+  display: flex;
+  border: 2px solid rgba(0, 0, 0, 0.25);
+}
+li img {
+  width: 40px;
+}
+li p {
+  margin: 12px 5px;
+  font: 1em sans-serif;
+}
+li:hover {
+  border-color: rgb(255, 40, 30);
+  background-color: rgba(0, 0, 0, 0.1);
+  color: rgb(255, 40, 30);
+  text-decoration: underline;
+}
+
+  /* элементы навигации внутри жанра */
+.nav-pad {
+  display:flex;
+  justify-content: center;
+  float: right;
+  padding-right: 20px;
+  padding-bottom: 10px;
+}
+.nav-btn {
+  width: 40px; height: 40px;
+  margin: 3px; padding: 0px;
+  border: 2px solid rgba(0, 0, 0, 0.25);
+  text-align: center; line-height: 40px;
+  font-size: 1.5em;
+}
+.nav-btn:hover {
+  border-color: rgb(255, 40, 30);
+  background-color: rgba(0, 0, 0, 0.1);
+  color: rgb(255, 40, 30);
+}
+.select-btn {
+  width: 40px; height: 40px;
+  margin: 3px; padding: 0px;
+  color: rgb(255, 40, 30);
+  border: 2px solid rgb(255, 40, 30);
+  background-color: rgba(0, 0, 0, 0.1);
+  text-align: center; line-height: 40px;
+  font-size: 1.5em;
+}
