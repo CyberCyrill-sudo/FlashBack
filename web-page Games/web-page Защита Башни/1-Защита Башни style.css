@@ -1,0 +1,172 @@
+.name {
+  text-align: center;
+  width: 100%;
+}
+.name h1 {
+  font-size: 2.25em;
+  margin: 44px;
+}
+.name-img {
+  width: 144px; height: 120px;
+  border: var(--border-red);
+}
+#game {
+  width: 900px; height: 675px;
+  border: var(--border-red);
+}
+#kingdom-rush {
+  width: 787px; height: 675px;
+  border: var(--border-red);
+}
+#command-and-control {
+  width: 1080px; height: 675px;
+  border: var(--border-red);
+}
+#the-utans {
+  width: 800px; height: 600px;
+  border: var(--border-red);
+}
+#flash-element {
+  width: 975px; height: 675px;
+  border: var(--border-red);
+}
+#castle-defense {
+  width: 1012px; height: 675px;
+  border: var(--border-red);
+}
+#trench-defence {
+  width: 1097px; height: 675px;
+  border: var(--border-red);
+}
+#cell-defense {
+  width: 928px; height: 675px;
+  border: var(--border-red);
+}
+#ancient-planet {
+  width: 850px; height: 676px;
+  border: var(--border-red);
+}
+#fallen-empire {
+  width: 774px; height: 675px;
+  border: var(--border-red);
+}
+#penguins-attack {
+  width: 875px; height: 675px;
+  border: var(--border-red);
+}
+#penguins-attack-3 {
+  width: 1012px; height: 675px;
+  border: var(--border-red);
+}
+#ninja-defense {
+  width: 1000px; height: 675px;
+  border: var(--border-red);
+}
+#viking-warfare {
+  width: 1080px; height: 675px;
+  border: var(--border-red);
+}
+#stalingrad {
+  width: 927px; height: 675px;
+  border: var(--border-red);
+}
+#stalingrad-2 {
+  width: 886px; height: 675px;
+  border: var(--border-red);
+}
+#bloom-defender {
+  width: 1000px; height: 675px;
+  border: var(--border-red);
+}
+#tower-tank {
+  width: 1012px; height: 675px;
+  border: var(--border-red);
+}
+#temple-guardian {
+  width: 590px; height: 430px;
+  border: var(--border-red);
+}
+#island-clash {
+  width: 700px; height: 550px;
+  border: var(--border-red);
+}
+#demonrift {
+  width: 800px; height: 675px;
+  border: var(--border-red);
+}
+#defendless {
+  width: 800px; height: 600px;
+  border: var(--border-red);
+}
+#bloons {
+  width: 675px; height: 675px;
+  border: var(--border-red);
+}
+#bloons5 {
+  width: 870px; height: 675px;
+  border: var(--border-red);
+}
+#gemcraft {
+  width: 862px; height: 675px;
+  border: var(--border-red);
+}
+#bugs-invasion {
+  width: 786px; height: 675px;
+  border: var(--border-red);
+}
+#carrot-fantasy {
+  width: 939px; height: 675px;
+  border: var(--border-red);
+}
+#bug-attack {
+  width: 720px; height: 480px;
+  border: var(--border-red);
+}
+#clash-of-the-worlds {
+  width: 920px; height: 675px;
+  border: var(--border-red);
+}
+#condemned-world {
+  width: 736px; height: 675px;
+  border: var(--border-red);
+}
+#kill-the-heroes {
+  width: 950px; height: 675px;
+  border: var(--border-red);
+}
+#lord-of-war {
+  width: 980px; height: 675px;
+  border: var(--border-red);
+}
+#elemental-strike {
+  width: 1125px; height: 675px;
+  border: var(--border-red);
+}
+#mutants-defense {
+  width: 700px; height: 500px;
+  border: var(--border-red);
+}
+#demons-vs-fairyland {
+  width: 800px; height: 600px;
+  border: var(--border-red);
+}
+#spectrum-td {
+  width: 1034px; height: 675px;
+  border: var(--border-red);
+}
+#desktop-td {
+  width: 940px; height: 670px;
+  border: var(--border-red);
+}
+#capital-defence {
+  width: 811px; height: 670px;
+  border: var(--border-red);
+}
+#canyon-defense {
+  width: 975px; height: 675px;
+  border: var(--border-red);
+}
+#big-bad-wolf {
+  width: 970px; height: 675px;
+  border: var(--border-red);
+}
