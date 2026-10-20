@@ -1,0 +1,92 @@
+.name {
+  text-align: center;
+  width: 100%;
+}
+.name h1 {
+  font-size: 2.25em;
+  margin: 44px;
+}
+.name-img {
+  width: 144px; height: 120px;
+  border: var(--border-red);
+}
+#game {
+  width: 900px; height: 675px;
+  border: var(--border-red);
+}
+#tank-travel {
+  width: 800px; height: 550px;
+  border: var(--border-red);
+}
+#awesome-tanks {
+  width: 675px; height: 675px;
+  border: var(--border-red);
+}
+#armada-tanks {
+  width: 480px; height: 360px;
+  border: var(--border-red);
+}
+#toy-tank {
+  width: 930px; height: 675px;
+  border: var(--border-red);
+}
+#thanks-tanks {
+  width: 600px; height: 350px;
+  border: var(--border-red);
+}
+#crushing-spree {
+  width: 1081px; height: 675px;
+  border: var(--border-red);
+}
+#power-tank {
+  width: 810px; height: 675px;
+  border: var(--border-red);
+}
+#cube-tank {
+  width: 640px; height: 420px;
+  border: var(--border-red);
+}
+#bubble-tanks {
+  width: 843px; height: 675px;
+  border: var(--border-red);
+}
+#bubble-tanks-arenas {
+  width: 825px; height: 675px;
+  border: var(--border-red);
+}
+#spiders-attack {
+  width: 925px; height: 675px;
+  border: var(--border-red);
+}
+#super-battle-city {
+  width: 640px; height: 480px;
+  border: var(--border-red);
+}
+#super-battle-city-2 {
+  width: 800px; height: 575px;
+  border: var(--border-red);
+}
+#tank-attack {
+  width: 885px; height: 675px;
+  border: var(--border-red);
+}
+#tank-destroyer {
+  width: 675px; height: 675px;
+  border: var(--border-red);
+}
+#jackal-operation {
+  width: 878px; height: 675px;
+  border: var(--border-red);
+}
+#super-tank {
+  width: 1150px; height: 600px;
+  border: var(--border-red);
+}
+#tank-tactics {
+  width: 550px; height: 450px;
+  border: var(--border-red);
+}
+#oil-tanks {
+  width: 490px; height: 675px;
+  border: var(--border-red);
+}
