@@ -170,3 +170,7 @@
   width: 970px; height: 675px;
   border: var(--border-red);
 }
+#blob-td {
+  width: 882px; height: 675px;
+  border: var(--border-red);
+}
