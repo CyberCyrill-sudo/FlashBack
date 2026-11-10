@@ -48,7 +48,7 @@ main {
   text-align: center;
 }
 .text-lg {
-  font: 1.5em sans-serif;
+  font: sans-serif bold; font-size: 1.5em
 }
 #Categories {
   font: 1em sans-serif;
