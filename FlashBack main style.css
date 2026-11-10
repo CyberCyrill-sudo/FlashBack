@@ -46,6 +46,8 @@ main {
 }
 #hello {
   text-align: center;
+}
+.text-lg {
   font: 1.5em sans-serif;
 }
 #Categories {
