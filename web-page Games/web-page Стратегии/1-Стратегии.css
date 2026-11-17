@@ -98,3 +98,7 @@
   width: 1052px; height: 675px;
   border: var(--border-red);
 }
+#starship-commander {
+  width: 985px; height: 675px;
+  border: var(--border-red);
+}
