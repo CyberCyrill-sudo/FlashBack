@@ -134,3 +134,15 @@
   width: 675px; height: 675px;
   border: var(--border-red);
 }
+#river-raider {
+  width: 550px; height: 550px;
+  border: var(--border-red);
+}
+#mechanical-commando {
+  width: 700px; height: 550px;
+  border: var(--border-red);
+}
+#опасный-крипер {
+  width: 628px; height: 675px;
+  border: var(--border-red);
+}
